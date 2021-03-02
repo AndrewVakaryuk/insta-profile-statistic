@@ -10,6 +10,7 @@ return array(
     'c964ee0ededf28c96ebd9db5099ef910' => $vendorDir . '/guzzlehttp/promises/src/functions_include.php',
     'a0edc8309cc5e1d60e3047b5df6b7052' => $vendorDir . '/guzzlehttp/psr7/src/functions_include.php',
     '37a3dc5111fe8f707ab4c132ef1dbc62' => $vendorDir . '/guzzlehttp/guzzle/src/functions_include.php',
+    '60799491728b879e74601d83e38b2cad' => $vendorDir . '/illuminate/collections/helpers.php',
     '7397b43b4a86782cd2c0a348566206db' => $baseDir . '/src/Load.php',
     '3fc4b472547e438236422824b2cc5828' => $baseDir . '/src/Storage.php',
     '65cc74215df397f28707c41009101ca0' => $baseDir . '/src/Stat.php',

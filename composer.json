@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^7.2"
+        "guzzlehttp/guzzle": "^7.2",
+        "illuminate/collections": "^8.30"
     },
     "autoload": {
         "files": [

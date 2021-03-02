@@ -10,4 +10,4 @@ if (empty($argv[1])) {
 
 $username = $argv[1];
 $stat = \StatIg\Stat\getUserStat($username);
-print_r($stat);
+var_dump($stat);
