@@ -1,0 +1,20 @@
+{
+    "name": "andrii/stat-ig",
+    "description": "The project for getting statistic of instagram account",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AndrewVakaryuk",
+            "email": "andreyvakaryuk@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "autoload": {
+        "files": [
+            "src/Load.php"
+        ]
+    }
+}
