@@ -14,7 +14,9 @@
     },
     "autoload": {
         "files": [
-            "src/Load.php"
+            "src/Load.php",
+            "src/Storage.php",
+            "src/Stat.php"
         ]
     }
 }
